@@ -1,3 +1,4 @@
+/*Funcion sumar y clear de la forma*/
 function funcSumar() {
   var numero1 = document.getElementById('firstnumber').value;
   var numero2 = document.getElementById('secondnumber').value;
